@@ -20,6 +20,7 @@ This report presents the findings and insights derived from the Road Accident Da
 
 ![Dashboard](https://github.com/rajikudusadewale/Road-Accident-Analysis/blob/main/Road%20accident%20dashboard.jpg)
 
+[You can interact with the dashboard here](https://docs.google.com/spreadsheets/d/12_TclO8GKO43ijE7-hp9UJnabGztc_rt/edit?usp=share_link&ouid=103471897524819941778&rtpof=true&sd=true)
 **Dashboard**
 ### Trends and Insights:
 
