@@ -6,6 +6,7 @@ Excel, UK
 
 This report presents the findings and insights derived from the Road Accident Dashboard created for the years 2021 and 2022. The dashboard aims to provide valuable insights to a diverse group of stakeholders, including the Ministry of Transport, Road Transport Department, Police Force, Emergency Service Department, Road Safety Corps, Transport Operators, Traffic Management Agencies, Public, and Media. The analysis conducted in the dashboard focuses on various aspects of road accidents, including casualties, accident severity, vehicle types, road types, road surfaces, and light conditions.
 
+![Dashboard](https://github.com/rajikudusadewale/Road-Accident-Analysis/blob/main/Road%20Accident%20Dashboard%20Pdf.pdf)
 ### Trends and Insights:
 
 **Total Casualties:**
