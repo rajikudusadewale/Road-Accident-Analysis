@@ -10,12 +10,12 @@ This report presents the findings and insights derived from the Road Accident Da
 
 - Clients want to create a Road Accident Dashboard for year 2021 and 2022 so they can have insight on the below requirements-
 - Total Casualties taken place after the accidents. Pry KPI
-- Total casualities & percentage of the total with respect to accident severity and max casualities by type of vehicle. Pry Kpi.
-- Total casualties with respect to vehicle type. Sec KPI.
+- Total casualities & percentage of the total with respect to accident severity and max casualities by type of vehicle. Primary Kpi.
+- Total casualties with respect to vehicle type. Secondary KPI.
 - monthly trend showing comparision of casualities for current year and previous year
-- Max masualties by road type
+- Max casualties by road type
 - Distribution of total casualties by road surface
-- Relationship btw casualties by area/location & dat/night
+- Relationship btw casualties by area/location & day/night
 
 
 ![Dashboard](https://github.com/rajikudusadewale/Road-Accident-Analysis/blob/main/Road%20accident%20dashboard.jpg)
