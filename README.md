@@ -1,5 +1,5 @@
 # Road-Accident-Analysis
-Excel, UK
+Excel
 
 ## Road Accident Dashboard Report
 **Introduction**
